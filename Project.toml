@@ -1,0 +1,12 @@
+name = "Rose"
+uuid = "80bef848-fd97-4339-bf65-ddf4313e8f70"
+authors = ["ardy-monaghan <ross.monaghan99@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
+[compat]
+FileIO = "1.18.0"
+Revise = "3.13.2"
